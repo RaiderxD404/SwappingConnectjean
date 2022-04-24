@@ -1,0 +1,85 @@
+{
+  "Name": "Krisabelle to ",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/CID/icon.png",
+  "Swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_A_310_Athena_Commando_F_ScholarFestive/icon.png",
+  "Type": "Skin:Mesh",
+  "Message": "false",
+  "Assets": [
+    {
+      "CompressionType": "oodle",
+      "AssetPath": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_ScholarFestive",
+      "AssetUcas": "",
+      "Swaps": [
+        {
+          "type": "string",
+          "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Scholar/Meshes/F_MED_Scholar.F_MED_Scholar",
+          "replace":""
+        },
+        {
+          "type": "string",
+          "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Scholar/Meshes/F_MED_Scholar_AnimBP.F_MED_Scholar_AnimBP_C",
+          "replace":""
+        },
+        {
+          "type": "string",
+          "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Scholar/Skins/Festive/Materials/F_MED_Scholar_Festive_Body.F_MED_Scholar_Festive_Body",
+          "replace": "/"
+        }
+      ]
+    },
+    {
+      "CompressionType": "oodle",
+      "AssetPath": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_ScholarFestive",
+      "AssetUcas": "",
+      "Swaps": [
+        {
+          "type": "string",
+          "search": "/Game/Characters/Player/Female/Medium/Heads/F_MED_CAU_Jane_Head_01/Meshes/F_MED_CAU_Jane_Head_01.F_MED_CAU_Jane_Head_01",
+          "replace":""
+        },
+        {
+          "type": "string",
+          "search": "/Game/Characters/Player/Female/Medium/Heads/F_MED_CAU_Jane_Head_01/Meshes/F_MED_CAU_Jane_Head_01_AnimBP_Child.F_MED_CAU_Jane_Head_01_AnimBP_Child_C",
+          "replace":""
+        },
+        {
+          "type": "string",
+          "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Scholar/Skins/Festive/Materials/F_MED_Scholar_Festive_Head.F_MED_Scholar_Festive_Head",
+          "replace": "/"
+        }
+      ]
+    },
+    {
+      "CompressionType": "oodle",
+      "AssetPath": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_ScholarFestive_FaceAcc",
+      "AssetUcas": "",
+      "Swaps": [
+        {
+          "type": "string",
+          "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Scholar/Meshes/Parts/F_MED_Scholar.F_MED_Scholar",
+          "replace": ""
+        },
+        {
+          "type": "string",
+          "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Scholar/Meshes/Parts/F_MED_Scholar_AnimBP.F_MED_Scholar_AnimBP_C",
+          "replace": ""
+        },
+        {
+          "type": "string",
+          "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Scholar/Skins/Festive/Materials/F_MED_Scholar_Festive_Hair.F_MED_Scholar_Festive_Hair",
+          "replace": "/"
+        },
+        {
+          "type": "string",
+          "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Scholar/Skins/Ghoul/Materials/F_MED_Scholar_Glass_Ghoul_FaceAcc.F_MED_Scholar_Glass_Ghoul_FaceAcc",
+          "replace": "/"
+        },
+        {
+          "type": "string",
+          "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Scholar/Skins/Festive/Materials/F_MED_Scholar_Festive_FaceAcc.F_MED_Scholar_Festive_FaceAcc",
+          "replace": "/"
+        }
+      ]
+    }
+  ]
+}
