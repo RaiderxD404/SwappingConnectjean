@@ -1,0 +1,21 @@
+{
+    "Name":"Deep Dive To ",
+    "Icon":"https://fortnite-api.com/images/cosmetics/br/CID/icon.png",
+    "Swapicon":"https://fortnite-api.com/images/cosmetics/br/BID_537_TacticalScuba/icon.png",
+    "Type":"Backblings",
+    "Message":"false",
+    "Assets":[
+       {
+          "CompressionType":"oodle",
+          "AssetPath":"/Game/Characters/CharacterParts/Backpacks/CP_Backpack_TacticalScuba",
+          "AssetUcas":"",
+          "Swaps":[
+             {
+                "type":"string",
+                "search": "/Game/Accessories/FORT_Backpacks/Backpack_M_MED_Tactical_Scuba/Meshes/M_MED_Tactical_Scuba_Pack.M_MED_Tactical_Scuba_Pack",
+                "replace": "/"
+             }
+          ]
+       }
+    ]
+ }

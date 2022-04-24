@@ -1,0 +1,21 @@
+{
+    "Name":"Black Heart To ",
+    "Icon":"https://fortnite-api.com/images/cosmetics/br/CID/icon.png",
+    "Swapicon":"https://fortnite-api.com/images/cosmetics/br/BID_847_PunkKoi/icon.png",
+    "Type":"Backblings",
+    "Message":"false",
+    "Assets":[
+       {
+          "CompressionType":"oodle",
+          "AssetPath":"/Game/Characters/CharacterParts/Backpacks/CP_Backpack_PunkKoi",
+          "AssetUcas":"",
+          "Swaps":[
+             {
+                "type":"string",
+                "search": "/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Punk_Koi/Meshes/F_MED_Punk_Koi_Pack.F_MED_Punk_Koi_Pack",
+                "replace": "/"
+             }
+          ]
+       }
+    ]
+ }

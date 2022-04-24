@@ -1,0 +1,21 @@
+{
+    "Name":" To ",
+    "Icon":"https://fortnite-api.com/images/cosmetics/br/CID/icon.png",
+    "Swapicon":"https://fortnite-api.com/images/cosmetics/br/CID/icon.png",
+    "Type":"Backblings",
+    "Message":"false",
+    "Assets":[
+       {
+          "CompressionType":"oodle",
+          "AssetPath":"Path",
+          "AssetUcas":"",
+          "Swaps":[
+             {
+                "type":"string",
+                "search": "Mesh",
+                "replace": "/"
+             }
+          ]
+       }
+    ]
+ }
