@@ -1,0 +1,46 @@
+{
+    "Name":"Default Pickaxe to ",
+    "Icon": "https://fortnite-api.com/images/cosmetics/br/CID/icon.png", 
+    "Swapicon":"https://fortnite-api.com/images/cosmetics/br/DefaultPickaxe/icon.png",
+    "Type":"Pickaxes",
+    "Message":"false",
+    "Assets":[
+       {
+          "CompressionType":"oodle",
+          "AssetPath":"/Game/Athena/Items/Weapons/WID_Harvest_Pickaxe_Athena_C_T01",
+          "AssetUcas":"",
+          "Swaps":[
+             {
+                "type":"string",
+                "search":"/Game/Weapons/FORT_Melee/Pickaxe_Default_Mark_III/Meshes/Default_Mark_III_Axe.Default_Mark_III_Axe",
+                "replace": ""
+             },
+             {
+                "type":"string",
+                "search":"/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Pickaxes-DefaultMarkIIIPickaxe.T-Icon-Pickaxes-DefaultMarkIIIPickaxe",
+                "replace": ""
+             },
+             {
+                "type":"string",
+                "search":"/Game/Athena/Sounds/Weapons/PickAxes/MarkIIIMale/PickaxeSwing_MarkIIIMale.PickaxeSwing_MarkIIIMale",
+                "replace": ""
+             },
+             {
+                "type":"string",
+                "search":"/Game/Athena/Sounds/Weapons/PickAxes/MarkIIIMale/PickaxeImpactEnemy_MarkIIIMale.PickaxeImpactEnemy_MarkIIIMale",
+                "replace": ""
+             },
+             {
+                "type":"string",
+                "search":"/Game/Athena/Sounds/Weapons/PickAxes/MarkIIIMale/PickaxeReady_MarkIIIMale.PickaxeReady_MarkIIIMale",
+                "replace": ""
+             },
+             {
+                "type":"string",
+                "search": "/",
+                "replace": "/"
+             }
+          ]
+       }
+    ]
+ }

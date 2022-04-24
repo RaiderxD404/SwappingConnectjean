@@ -1,0 +1,46 @@
+{
+    "Name":"Frozen Axe to ",
+    "Icon": "https://fortnite-api.com/images/cosmetics/br/CID/icon.png", 
+    "Swapicon":"https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_143_FlintlockWinter/icon.png",
+    "Type":"Pickaxes",
+    "Message":"false",
+    "Assets":[
+       {
+          "CompressionType":"oodle",
+          "AssetPath":"/Game/Athena/Items/Weapons/WID_Harvest_Pickaxe_FlintlockWinter",
+          "AssetUcas":"",
+          "Swaps":[
+             {
+                "type":"string",
+                "search": "/Game/Weapons/FORT_Melee/Pickaxe_Flintlock_RedKnight/Meshes/SK_Pickaxe_Flintlock_RedKnight.SK_Pickaxe_Flintlock_RedKnight",
+                "replace": ""
+             },
+             {
+                "type":"string",
+                "search":"/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Pickaxes-Pickaxe-ID-143-FlintlockWinter.T-Icon-Pickaxes-Pickaxe-ID-143-FlintlockWinter",
+                "replace": ""
+             },
+             {
+                "type":"string",
+                "search":"/Game/Athena/Sounds/Weapons/PickAxes/FlintlockWinter/Pickaxe_WinterFlintlock_Swing.Pickaxe_WinterFlintlock_Swing",
+                "replace": ""
+             },
+             {
+                "type":"string",
+                "search":"/Game/Athena/Sounds/Weapons/PickAxes/FlintlockWinter/Pickaxe_WinterFlintlock_Impact.Pickaxe_WinterFlintlock_Impact",
+                "replace": ""
+             },
+             {
+                "type":"string",
+                "search":"/Game/Athena/Sounds/Weapons/PickAxes/FlintlockWinter/Pickaxe_WinterFlintlock_Ready.Pickaxe_WinterFlintlock_Ready",
+                "replace": ""
+             },
+             {
+                "type":"string",
+                "search": "/Game/Weapons/FORT_Melee/Pickaxe_Flintlock_RedKnight_Winter/Materials/MI_Pickaxe_Flintlock_RedKnight_Winter.MI_Pickaxe_Flintlock_RedKnight_Winter",
+                "replace": ""
+             }
+          ]
+       }
+    ]
+ }

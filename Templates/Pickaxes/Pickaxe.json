@@ -1,0 +1,46 @@
+{
+    "Name":" to ",
+    "Icon": "https://fortnite-api.com/images/cosmetics/br/CID/icon.png", 
+    "Swapicon":"https://fortnite-api.com/images/cosmetics/br/CID/icon.png",
+    "Type":"Pickaxes",
+    "Message":"false",
+    "Assets":[
+       {
+          "CompressionType":"oodle",
+          "AssetPath":"Pickaxe Path",
+          "AssetUcas":"",
+          "Swaps":[
+             {
+                "type":"string",
+                "search": "",
+                "replace": ""
+             },
+             {
+                "type":"string",
+                "search":"",
+                "replace": ""
+             },
+             {
+                "type":"string",
+                "search":"",
+                "replace": ""
+             },
+             {
+                "type":"string",
+                "search":"",
+                "replace": ""
+             },
+             {
+                "type":"string",
+                "search":"",
+                "replace": ""
+             },
+             {
+                "type":"string",
+                "search": "",
+                "replace": ""
+             }
+          ]
+       }
+    ]
+ }

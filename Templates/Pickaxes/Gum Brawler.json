@@ -1,0 +1,41 @@
+{
+    "Name":"Gum Brawler to ",
+    "Icon": "https://fortnite-api.com/images/cosmetics/br/CID/icon.png", 
+    "Swapicon":"https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_713_GumballMale/icon.png",
+    "Type":"Pickaxes",
+    "Message":"false",
+    "Assets":[
+       {
+          "CompressionType":"oodle",
+          "AssetPath":"/Game/Athena/Items/Weapons/WID_Harvest_Pickaxe_GumballMale",
+          "AssetUcas":"",
+          "Swaps":[
+             {
+                "type":"string",
+                "search": "/Game/Weapons/FORT_Melee/Pickaxe_Gumball_Male/Meshes/Gumball_Male_Axe.Gumball_Male_Axe",
+                "replace": ""
+             },
+             {
+                "type":"string",
+                "search":"/Game/Athena/Sounds/Weapons/PickAxes/GumballMale/PickaxeImpactEnemy_GumballMale.PickaxeImpactEnemy_GumballMale",
+                "replace": ""
+             },
+             {
+                "type":"string",
+                "search":"/Game/Athena/Sounds/Weapons/PickAxes/GumballMale/PickaxeReady_GumballMale.PickaxeReady_GumballMale",
+                "replace": ""
+             },
+             {
+                "type":"string",
+                "search":"/Game/Athena/Sounds/Weapons/PickAxes/GumballMale/PickaxeSwing_GumballMale.PickaxeSwing_GumballMale",
+                "replace": ""
+             },
+             {
+                "type":"string",
+                "search":"/Game/UI/Foundation/Textures/Icons/Weapons/Items/T-Icon-Pickaxes-GumballPickaxe.T-Icon-Pickaxes-GumballPickaxe",
+                "replace": ""
+             }
+          ]
+       }
+    ]
+ }
