@@ -1,0 +1,85 @@
+{
+    "Name":" To ",
+    "Icon":"https://fortnite-api.com/images/cosmetics/br/CID/icon.png",
+    "Swapicon":"https://fortnite-api.com/images/cosmetics/br/CID/icon.png",
+    "Type":"Skin:Mesh",
+    "Message":"false",
+    "Assets":[
+       {
+          "CompressionType":"oodle",
+          "AssetPath":"Body Path",
+          "AssetUcas":"",
+          "Swaps":[
+             {
+                "type":"string",
+                "search":"",
+                "replace":""
+             },
+             {
+                "type":"string",
+                "search":"",
+                "replace": ""
+             },
+             {
+                "type":"string",
+                "search":"",
+                "replace":"/"
+             }
+          ]
+       },
+       {
+          "CompressionType":"oodle",
+          "AssetPath":"Head Path",
+          "AssetUcas":"",
+          "Swaps":[
+             {
+                "type":"string",
+                "search":"",
+                "replace":""
+             },
+             {
+                "type":"string",
+                "search":"",
+                "replace":""
+             },
+             {
+                "type":"string",
+                "search":"",
+                "replace":"/"
+             }
+          ]
+       },
+       {
+          "CompressionType":"oodle",
+          "AssetPath":"Face Acc Path",
+          "AssetUcas":"",
+          "Swaps":[
+             {
+                "type":"string",
+                "search":"",
+                "replace": ""
+             },
+             {
+                "type":"string",
+                "search":"",
+                "replace":""
+             },
+             {
+                "type":"string",
+                "search":"",
+                "replace":"/"
+             },
+             {
+                "type":"string",
+                "search":"",
+                "replace":"/"
+             },
+             {
+                "type":"string",
+                "search":"",
+                "replace":"/"
+             }
+          ]
+       }
+    ]
+ }
