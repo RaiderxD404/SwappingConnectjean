@@ -7,7 +7,7 @@
     "Assets":[
        {
           "CompressionType":"oodle",
-          "AssetPath":"/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_NeonGraffitiLava.CP_Body_Commando_F_NeonGraffitiLava",
+          "AssetPath":"/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_NeonGraffitiLava",
           "AssetUcas":"",
           "Swaps":[
              {
@@ -29,7 +29,7 @@
        },
        {
           "CompressionType":"oodle",
-          "AssetPath":"/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_NeonGraffitiLava.CP_Head_F_NeonGraffitiLava",
+          "AssetPath":"/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_NeonGraffitiLava",
           "AssetUcas":"",
           "Swaps":[
              {
@@ -51,7 +51,7 @@
        },
        {
           "CompressionType":"oodle",
-          "AssetPath":"/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_NeonGraffitiLava.CP_F_MED_NeonGraffitiLava",
+          "AssetPath":"/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_NeonGraffitiLava",
           "AssetUcas":"",
           "Swaps":[
              {
